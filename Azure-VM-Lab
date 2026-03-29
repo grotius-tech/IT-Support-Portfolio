@@ -1,0 +1,24 @@
+Title:
+Cloud Support Lab – Virtual Machine Deployment & Troubleshooting
+
+Platform:
+Microsoft Azure
+
+Scenario:
+A virtual machine failed to start.
+
+Steps Taken:
+
+Checked VM status in Azure portal
+Reviewed boot diagnostics
+Restarted VM
+Verified network configuration
+
+Outcome:
+VM restored and accessible.
+
+Skills Demonstrated:
+
+Cloud support basics
+VM management
+Troubleshooting
