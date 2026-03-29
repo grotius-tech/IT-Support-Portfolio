@@ -1,0 +1,24 @@
+🔹 Project 1: Active Directory Lab
+
+Title:
+User Account Management using Microsoft Entra ID
+
+Scenario:
+A user could not log into their account due to a forgotten password.
+
+Steps Taken:
+
+Accessed admin portal in Microsoft Entra ID
+Located user account
+Reset password
+Forced password reset on next login
+Verified account status
+
+Outcome:
+User successfully regained access and logged in securely.
+
+Skills Demonstrated:
+
+Identity & Access Management
+User administration
+Troubleshooting login issues
